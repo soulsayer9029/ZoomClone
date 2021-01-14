@@ -1,0 +1,8 @@
+1.Init Project Done
+2.Init first view Done
+3.Create room
+4.View your own vide0
+5.Others stream their own video
+6.Style
+7.Chatbox
+8.Mute and Stop Video
